@@ -1,47 +1,50 @@
-# 👋 Hello, I'm Santosh!
+<div align="center">
+  
+# Hi there, I'm Santosh Bhor 👋
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santosh-bhor-474981207/) [![Twitter](https://img.shields.io/twitter/follow/SantoshBhor2001?style=for-the-badge&logo=twitter)](https://twitter.com/SantoshBhor2001) [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=for-the-badge&logo=github)](https://github.com/BhorSant)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)] [![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=flat-square&logo=twitter)] [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)]
+Data Scientist | Machine Learning Enthusiast | Python Developer
+  
+</div>
 
-I'm a data scientist passionate about extracting insights from data and building predictive models. Currently based in Pune, I enjoy exploring various machine learning algorithms and data visualization techniques.
+## 🚀 About Me
 
-## 🛠️ Tools & Technologies
+- 🔭 I’m currently working on enhancing my machine learning skills.
+- 🌱 I’m currently learning advanced deep learning techniques.
+- 👯 I’m looking to collaborate on open source projects related to data science and machine learning.
+- 💬 Ask me about anything related to Python, machine learning, or data science.
+- 📫 How to reach me: [Send me an email](santoshbhor2001@gmail.com).
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-008000?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4E2A8E?style=flat-square&logo=seaborn&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+## 🛠️ Tech Stack
 
-## 🌱 Currently Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4E2A8E?style=for-the-badge&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-I'm currently diving deeper into:
+## 📊 My GitHub Stats
 
-- Advanced machine learning techniques
-- Big data technologies like Apache Spark
-- Deep learning architectures
+![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhorSant&show_icons=true&theme=dark)
 
-## 📊 Projects
+## 📝 Latest Blog Posts
 
-Here are some of the projects I've worked on recently:
+<!-- BLOG-POST-LIST:START -->
+- [How to Use Machine Learning to Predict Stock Prices](https://medium.com/@yourusername/how-to-use-machine-learning-to-predict-stock-prices-1234abcd)
+- [Introduction to Natural Language Processing](https://medium.com/@yourusername/introduction-to-natural-language-processing-5678efgh)
+<!-- BLOG-POST-LIST:END -->
 
-- [Project 1: Chicken Disease Classification](https://github.com/BhorSant/Chicken-disease)
-- [Project 2: Text Summarization](https://github.com/BhorSant/Text-Summarizer-Project)
-- [Project 3: Cat and Dog Classification](https://github.com/BhorSant/cat-dog-classificationt)
-- [Project 4: Book Recommendation Classification](https://github.com/BhorSant/Book-Recommendation-System)
-- [Project 5: Data Analyst Project](https://github.com/BhorSant/Project)
-- [Project 6: Machine Learning Project](https://github.com/BhorSant/ds)
+## 🤝🏻 Let's Connect
 
-## 📫 Get in Touch
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/santosh-bhor-474981207/)
+- Twitter: [Follow me on Twitter](https://twitter.com/SantoshBhor2001)
+- Portfolio: [Check out my portfolio](https://github.com/BhorSant)
 
-- LinkedIn: [https://www.linkedin.com/in/santosh-bhor-474981207/)](https://www.linkedin.com/in/santosh-bhor-474981207/)]
-- Twitter: [[[Your Twitter Profile Link](https://www.linkedin.com/in/santosh-bhor-474981207/))](https://twitter.com/SantoshBhor2001)]
-- Portfolio: [https://www.linkedin.com/in/santosh-bhor-474981207/)]([Your Portfolio Link](https://github.com/BhorSant))
+---
 
-Feel free to reach out to me to discuss collaboration opportunities, or just to say hi! 😊
+⭐️ From [Santosh Bhor](https://github.com/BhorSant)
