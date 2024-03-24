@@ -54,8 +54,15 @@ Here are some of the projects I've worked on recently:
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhorSant&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhorSant&show_icons=true&theme=dark)
+<div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhorSant&layout=compact&theme=dark" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=BhorSant&show_icons=true&theme=dark" />
+    </a>
+</div>
+
 
 ## 📝 Latest Blog Posts
 
