@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santosh-bhor-474981207/) [![Twitter](https://img.shields.io/twitter/follow/SantoshBhor2001?style=flat-square&logo=twitter)](https://twitter.com/SantoshBhor2001) [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)](https://github.com/BhorSant)
 
-💰 If you'd like to support my work, you can buy me a coffee: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=flat-square&logo=buy-me-a-coffee)]
-
 I'm a data scientist passionate about extracting insights from data and building predictive models. Currently based in Pune, I enjoy exploring various machine learning algorithms and data visualization techniques.
 
 ## 🛠️ Tools & Technologies
