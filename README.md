@@ -30,8 +30,16 @@ I'm currently diving deeper into:
 - Deep learning architectures
 - Generative AI
 - MLOPS
-- Learn langchanin and LLM
-  
+- Learning LangChanin and LLM
+
+## 💻 Cloud & Advanced Tools
+
+![Amazon AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 ## 📊 Projects
 
