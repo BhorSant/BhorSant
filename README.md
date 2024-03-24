@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Santosh!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](Your LinkedIn Profile Link) [![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=flat-square&logo=twitter)](Your Twitter Profile Link) [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)](Your Portfolio Link)
 
-I'm a passionate [Your Profession] based in [Your Location]. I love to [Your Interests/Hobbies].
+I'm a passionate Data Scientist and AI based in Pune. I love to Coding, Playing Cricket.
 
 ## 🔧 Technologies & Tools
 
@@ -18,18 +18,21 @@ I'm a passionate [Your Profession] based in [Your Location]. I love to [Your Int
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently focusing on improving my skills in [Specific Skill/Technology].
+I'm currently focusing on improving my skills in Data Scientist and AI Engineer.
 
 ## 📚 What I'm Working On
 
-- [Project 1](Link to Project)
-- [Project 2](Link to Project)
-- [Project 3](Link to Project)
+- [Project 1: Chicken Disease Classification](https://github.com/BhorSant/Chicken-disease)
+- [Project 2: Text Summarization](https://github.com/BhorSant/Text-Summarizer-Project)
+- [Project 3: Cat and Dog Classification](https://github.com/BhorSant/cat-dog-classificationt)
+- [Project 4: Book Recommendation Classification](https://github.com/BhorSant/Book-Recommendation-System)
+- [Project 5: Data Analyst Project](https://github.com/BhorSant/Project)
+- [Project 6: Machine Learning Project](https://github.com/BhorSant/ds)
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/santosh-bhor-474981207/)](Your LinkedIn Profile Link)
-- Twitter: [[Your Twitter Profile Link](https://twitter.com/SantoshBhor2001)](Your Twitter Profile Link)
-- Portfolio: [Your Portfolio Link](Your Portfolio Link)
+- LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/santosh-bhor-474981207/)]
+- Twitter: [[Your Twitter Profile Link](https://twitter.com/SantoshBhor2001)]
+- Portfolio: [Your Portfolio Link]([Your Portfolio Link](https://github.com/BhorSant))
 
 Feel free to reach out to me to discuss collaboration opportunities, or just to say hi! 😊
