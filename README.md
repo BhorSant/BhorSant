@@ -1,4 +1,26 @@
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: red;
+      color: white; /* Set text color to white for better readability */
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm Santosh!</h1>
+    <!-- Your content goes here -->
+  </div>
+</body>
+</html>
+
 
 👋 Hello, I'm Santosh!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santosh-bhor-474981207/) [![Twitter](https://img.shields.io/twitter/follow/SantoshBhor2001?style=flat-square&logo=twitter)](https://twitter.com/SantoshBhor2001) [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)](https://github.com/BhorSant)
