@@ -2,25 +2,34 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)] [![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=flat-square&logo=twitter)] [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)]
 
-I'm a passionate Data Scientist and AI based in Pune. I love to Coding, Playing Cricket.
+I'm a data scientist passionate about extracting insights from data and building predictive models. Currently based in Pune, I enjoy exploring various machine learning algorithms and data visualization techniques.
 
-## 🔧 Technologies & Tools
+## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008000?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4E2A8E?style=flat-square&logo=seaborn&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🌱 What I'm Currently Learning
+## 🌱 Currently Learning
 
-I'm currently focusing on improving my skills in Data Scientist and AI Engineer.
+I'm currently diving deeper into:
 
-## 📚 What I'm Working On
+- Advanced machine learning techniques
+- Big data technologies like Apache Spark
+- Deep learning architectures
+
+## 📊 Projects
+
+Here are some of the projects I've worked on recently:
 
 - [Project 1: Chicken Disease Classification](https://github.com/BhorSant/Chicken-disease)
 - [Project 2: Text Summarization](https://github.com/BhorSant/Text-Summarizer-Project)
