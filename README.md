@@ -28,6 +28,10 @@ I'm currently diving deeper into:
 - Advanced machine learning techniques
 - Big data technologies like Apache Spark
 - Deep learning architectures
+- Generative AI
+- MLOPS
+- Learn langchanin and LLM
+  
 
 ## 📊 Projects
 
@@ -43,6 +47,13 @@ Here are some of the projects I've worked on recently:
 ## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhorSant&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhorSant&show_icons=true&theme=dark)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Use Machine Learning to Predict Stock Prices](https://medium.com/@yourusername/how-to-use-machine-learning-to-predict-stock-prices-1234abcd)
+- [Introduction to Natural Language Processing](https://medium.com/@yourusername/introduction-to-natural-language-processing-5678efgh)
 
 ## 📫 Get in Touch
 
