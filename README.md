@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Santosh!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](Your LinkedIn Profile Link) [![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=flat-square&logo=twitter)](Your Twitter Profile Link) [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)](Your Portfolio Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)] [![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=flat-square&logo=twitter)] [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square)]
 
 I'm a passionate Data Scientist and AI based in Pune. I love to Coding, Playing Cricket.
 
@@ -31,8 +31,8 @@ I'm currently focusing on improving my skills in Data Scientist and AI Engineer.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/santosh-bhor-474981207/)]
-- Twitter: [[Your Twitter Profile Link](https://twitter.com/SantoshBhor2001)]
-- Portfolio: [Your Portfolio Link]([Your Portfolio Link](https://github.com/BhorSant))
+- LinkedIn: [https://www.linkedin.com/in/santosh-bhor-474981207/)](https://www.linkedin.com/in/santosh-bhor-474981207/)]
+- Twitter: [[[Your Twitter Profile Link](https://www.linkedin.com/in/santosh-bhor-474981207/))](https://twitter.com/SantoshBhor2001)]
+- Portfolio: [https://www.linkedin.com/in/santosh-bhor-474981207/)]([Your Portfolio Link](https://github.com/BhorSant))
 
 Feel free to reach out to me to discuss collaboration opportunities, or just to say hi! 😊
